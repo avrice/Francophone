@@ -16,8 +16,8 @@ Run the following commands from your terminal:
   <tbody>
     <tr>
       <td width="1%"><img src="https://github.com/avrice/french-vocabulary-app/blob/main/images/image1.png"/></td>
-      <td width="1%"><img src="https://github.com/avrice/french-vocabulary-app/blob/main/images/image2ng"/></td>
-       <td width="1%"><img src="https://github.com/avrice/french-vocabulary-app/blob/main/images/image3png"/></td>
+      <td width="1%"><img src="https://github.com/avrice/french-vocabulary-app/blob/main/images/image2.png"/></td>
+       <td width="1%"><img src="https://github.com/avrice/french-vocabulary-app/blob/main/images/image3.png"/></td>
     </tr>
   </tbody>
 </table>
