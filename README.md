@@ -17,7 +17,7 @@ Run the following commands from your terminal:
     <tr>
       <td width="1%"><img src="https://github.com/avrice/french-vocabulary-app/blob/main/images/img2.PNG"/></td>
       <td width="1%"><img src="https://github.com/avrice/french-vocabulary-app/blob/main/images/img3.PNG"/></td>
-       <td width="1%"><img src="https://github.com/avrice/french-vocabulary-app/blob/main/images/img5.PNG"/></td>
+       <td width="1%"><img src="https://github.com/avrice/french-vocabulary-app/blob/main/images/img5.png"/></td>
     </tr>
   </tbody>
 </table>
